@@ -59,8 +59,8 @@
 ### 3. Cross-Tabulation ---> used to analyze the relationship between two categorical variables.
 ### Example:
 #### Product Category	UPI	Card	Cash
-#### Electronics	   #   2 	0 	1
-#### Clothing	       #   0 	2 	1
+#### Electronics	      2 	0 	1
+#### Clothing	          0 	2 	1
 ### This helps identify patterns between variables.In Python:---> pd.crosstab()
 
 ### 4. Grouping of Data ---> Grouping helps summarize data based on categories.
